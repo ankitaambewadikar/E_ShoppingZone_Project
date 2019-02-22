@@ -1,0 +1,1 @@
+mongorestore -d product_db <path of product_db>

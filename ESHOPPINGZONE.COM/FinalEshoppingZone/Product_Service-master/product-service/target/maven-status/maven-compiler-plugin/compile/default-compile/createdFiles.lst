@@ -1,0 +1,6 @@
+com\cg\eShoppingZone\productservice\ProductServiceApplication.class
+com\cg\eShoppingZone\productservice\service\ProductService.class
+com\cg\eShoppingZone\productservice\repository\ProductRepository.class
+com\cg\eShoppingZone\productservice\service\ProductServiceImpl.class
+com\cg\eShoppingZone\productservice\entity\Product.class
+com\cg\eShoppingZone\productservice\resource\ProductResource.class
